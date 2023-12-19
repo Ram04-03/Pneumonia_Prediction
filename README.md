@@ -22,7 +22,7 @@ This repository contains the code and resources for a web application that uses 
 1. Visit http://localhost:8501 in your web browser.
 2. Click the "Upload Image" button and select a chest X-ray image.
 3. Click the "Predict" button.
-4. The app will display the predicted probability of pneumonia and the classification ("Normal" or "Pneumonia").
+4. The app will display the predicted likelihood of occurence of pneumonia and the classification ("Normal" or "Pneumonia").
 
 ### Overview
 

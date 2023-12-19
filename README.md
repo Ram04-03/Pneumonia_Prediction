@@ -1,4 +1,4 @@
-## Pneumonia Prediction App: CNN Model with Streamlit Web Interface
+## Pneumonia Prediction using Tensorflow
 
 This repository contains the code and resources for a web application that uses a Convolutional Neural Network (CNN) model built with TensorFlow to predict pneumonia from chest X-ray images. The user interface is built using Streamlit, making it easy to access and use.
 

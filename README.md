@@ -42,7 +42,7 @@ Link to the Dataset: https://www.kaggle.com/datasets/paultimothymooney/chest-xra
 **Web App:**
 
 * The app built using Streamlit provides a user-friendly interface for interacting with the model.
-* The code for the app is located in `webappapp.py`.
+* The code for the app is located in `webapp.py`.
 
 **Results:**
 * The model has built with 94.54% Train accuracy and 90.38% Test accuracy
